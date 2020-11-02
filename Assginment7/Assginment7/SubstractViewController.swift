@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class SubstractViewController: UIViewController {
     @IBOutlet weak var leftField: UITextField!
     @IBOutlet weak var rightField: UITextField!
     @IBOutlet weak var resultLabel: UILabel!

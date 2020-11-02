@@ -7,10 +7,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Second View Controller-->
+        <!--Substract View Controller-->
         <scene sceneID="uL5-FM-7nT">
             <objects>
-                <viewController id="dAh-Aa-lMu" customClass="SecondViewController" customModule="Assginment7" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="dAh-Aa-lMu" customClass="SubstractViewController" customModule="Assginment7" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Msr-yS-sQD">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -81,10 +81,10 @@
             </objects>
             <point key="canvasLocation" x="-549.27536231884062" y="526.33928571428567"/>
         </scene>
-        <!--First View Controller-->
+        <!--Addition View Controller-->
         <scene sceneID="cFf-ZN-xEo">
             <objects>
-                <viewController id="h2L-zh-gyp" customClass="FirstViewController" customModule="Assginment7" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="h2L-zh-gyp" customClass="AdditionViewController" customModule="Assginment7" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cQi-CH-6Uc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

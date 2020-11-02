@@ -7,7 +7,8 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+
+class AdditionViewController: UIViewController {
     @IBOutlet weak var leftField: UITextField!
     @IBOutlet weak var rightField: UITextField!
     @IBOutlet weak var resultLabel: UILabel!
